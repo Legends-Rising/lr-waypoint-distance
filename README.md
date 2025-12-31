@@ -92,7 +92,6 @@ local config = {
 
 ### Performance
 - **Client-side only** - No server load
-- **Optimized loop** - 0ms wait with efficient checks
 - **Minimal draw calls** - Only renders when waypoint is active
 
 ## 🤝 Support
