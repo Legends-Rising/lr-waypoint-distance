@@ -1,6 +1,3 @@
--- RedM Waypoint Distance Display - Optimized
--- Client-side script using correct RedM waypoint natives
-
 local config = {
   -- Display settings
   font = 1,
@@ -136,4 +133,5 @@ RegisterCommand('distanceunit', function(source, args)
   else
       print("Invalid unit. Usage: /distanceunit [1=meters, 2=kilometers, 3=miles]")
   end
+
 end, false)
