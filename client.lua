@@ -48,12 +48,12 @@ local function DrawText3D(text, r, g, b, a)
   DisplayText(str, config.posX, config.posY)
 end
 
--- Function to check if waypoint is active using correct native
+-- Function to check if waypoint is active
 local function IsWaypointActive()
   return Citizen.InvokeNative(0x202B1BBFC6AB5EE4, Citizen.ResultAsInteger()) == 1
 end
 
--- Function to get waypoint coordinates using correct native
+-- Function to get waypoint coordinates
 local function GetWaypointCoords()
   return Citizen.InvokeNative(0x29B30D07C3F7873B, Citizen.ResultAsVector())
 end
@@ -135,3 +135,4 @@ RegisterCommand('distanceunit', function(source, args)
   end
 
 end, false)
+
