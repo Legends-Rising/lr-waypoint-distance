@@ -18,18 +18,18 @@ A simple and lightweight script for RedM that displays the distance to your wayp
 
 ## 📸 Preview
 
-The distance appears in **red text** under your minimap:
-```
-500m
-1.2km
-0.8mi
-```
+The distance appears in **red text** under your minimap as you travel:
 
-https://media.discordapp.net/attachments/838115167476514819/1456067687611498686/Screenshot_2026-01-01_022449.png?ex=69570435&is=6955b2b5&hm=b16acfb90c064273ffe045c47c625ddb3ad33ab965377b5ad4fbc387b10de149&=&format=webp&quality=lossless
+![Preview 1](https://media.discordapp.net/attachments/838115167476514819/1456067687611498686/Screenshot_2026-01-01_022449.png?ex=69570435&is=6955b2b5&hm=b16acfb90c064273ffe045c47c625ddb3ad33ab965377b5ad4fbc387b10de149&=&format=webp&quality=lossless)
 
-https://media.discordapp.net/attachments/838115167476514819/1456067688638972057/Screenshot_2026-01-01_022548.png?ex=69570435&is=6955b2b5&hm=fd02fb6b095c71234fa9afb8dbe1747588d5728b760d0d56df0db9bae66c70ed&=&format=webp&quality=lossless
+![Preview 2](https://media.discordapp.net/attachments/838115167476514819/1456067688638972057/Screenshot_2026-01-01_022548.png?ex=69570435&is=6955b2b5&hm=fd02fb6b095c71234fa9afb8dbe1747588d5728b760d0d56df0db9bae66c70ed&=&format=webp&quality=lossless)
 
-https://media.discordapp.net/attachments/838115167476514819/1456067688056099021/Screenshot_2026-01-01_022516.png?ex=69570435&is=6955b2b5&hm=70bc93fb61e80740e5015106a4deb2f2fa9223063ddce915f438365db6c810e7&=&format=webp&quality=lossless
+![Preview 3](https://media.discordapp.net/attachments/838115167476514819/1456067688056099021/Screenshot_2026-01-01_022516.png?ex=69570435&is=6955b2b5&hm=70bc93fb61e80740e5015106a4deb2f2fa9223063ddce915f438365db6c810e7&=&format=webp&quality=lossless)
+
+**Distance formats:**
+- Meters: `500m`
+- Kilometers: `1.2km`
+- Miles: `0.8mi`
 
 ## 📦 Installation
 
